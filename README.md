@@ -9,8 +9,7 @@ Neue Funktionen, Fähigkeiten, und Fehlerbehebungen bitte in [SerenityOS](https:
 Mithilfe ist gern gesehen. Bitte versuche dafür zu sorgen, dass alle Zwischenzustände Sinn ergeben, und nach Möglichkeit auch bauen.
 
 ```
-git clone https://github.com/GelassenheitBS/Gelassenheit.git
-git remote rename origin urpsprung # ;-)
+git clone -o ursprung https://github.com/GelassenheitBS/Gelassenheit.git
 ```
 
 ---
