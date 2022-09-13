@@ -12,6 +12,8 @@ Mithilfe ist gern gesehen. Bitte versuche dafür zu sorgen, dass alle Zwischenzu
 git clone -o ursprung https://github.com/GelassenheitBS/Gelassenheit.git
 ```
 
+GelassenheitBS ist unter einer 2-Klausel-BSD-Lizenz.
+
 ---
 
 # SerenityOS
